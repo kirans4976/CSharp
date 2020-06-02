@@ -1,0 +1,14 @@
+D:\GitVC\CSharp\Xunit\WinFormUI\bin\Debug\PersonText.txt
+D:\GitVC\CSharp\Xunit\WinFormUI\bin\Debug\WinFormUI.exe.config
+D:\GitVC\CSharp\Xunit\WinFormUI\bin\Debug\WinFormUI.exe
+D:\GitVC\CSharp\Xunit\WinFormUI\bin\Debug\WinFormUI.pdb
+D:\GitVC\CSharp\Xunit\WinFormUI\bin\Debug\DemoLibrary.dll
+D:\GitVC\CSharp\Xunit\WinFormUI\bin\Debug\DemoLibrary.pdb
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.exe
+D:\GitVC\CSharp\Xunit\WinFormUI\obj\Debug\WinFormUI.pdb

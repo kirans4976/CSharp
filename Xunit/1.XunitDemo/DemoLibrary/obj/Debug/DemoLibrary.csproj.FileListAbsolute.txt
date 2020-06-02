@@ -1,0 +1,6 @@
+D:\GitVC\CSharp\Xunit\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\GitVC\CSharp\Xunit\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\GitVC\CSharp\Xunit\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+D:\GitVC\CSharp\Xunit\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\GitVC\CSharp\Xunit\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\GitVC\CSharp\Xunit\DemoLibrary\obj\Debug\DemoLibrary.pdb
