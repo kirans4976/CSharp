@@ -1,0 +1,28 @@
+﻿@*@using KShoppingKartMock.Data.Models
+@model IEnumerable<Mobile>*@  
+@using KShoppingKartMock.ViewModels
+@model MobileListViewModel
+    
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <h2>@ViewBag.Name</h2>
+    <h2>@Model.CurrentCategory</h2>
+    @{ 
+        foreach (var mobile in Model.Mobiles) //foreach (var mobile in Model)
+        {
+            <h4>MobileName: @mobile.MobileName</h4>
+            <p>Price: @mobile.Price.ToString("c")</p>
+        }
+    }
+</body>
+</html>
